@@ -1,0 +1,1 @@
+import{_ as e,c,f as t}from"./index-yRIpJ-G7.js";const n={},o={class:"content"};function s(r,_){return t(),c("div",o," page1页面,现在完成了点击左侧切换路由主界面不变，但是右侧界面变化的内容 ")}const f=e(n,[["render",s]]);export{f as default};
